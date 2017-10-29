@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Conversor</string>
+    <string name="txtInicial">Ingrese el valor a convertir</string>
 </resources>
